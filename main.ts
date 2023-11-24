@@ -82,6 +82,8 @@ function giveIntroduction () {
     showInstruction("To crouch, hold S.")
     showInstruction("You can jump by pressing the W button")
     showInstruction("And double jump by pressing it twice.")
+    showInstruction("You can kill the skully ghosts by jumping on their heads!")
+    showInstruction("You cannot kill the bats though.")
     showInstruction("Collect candy-corn to earn points!")
     showInstruction("Good luck kid. You're on your own.")
 }
